@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFF3B0,100:FFE066&height=200&section=header&text=Chandana%20C%20K&fontSize=50&fontColor=333333&desc=AI%20%2F%20ML%20%7C%20Student%20Developer&descAlignY=65&descSize=20&animation=twinkling" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDE59,100:FFB347&height=200&section=header&text=Chandana%20C%20K&fontSize=55&fontColor=222222&fontAlignY=35&animation=fadeIn&width=1000" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB347&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Enthusiast;Student+Developer;Building+practical+AI+tools" />
+
+</div>
 ### 🚀 About Me
 
 I'm an AI & ML enthusiast who loves turning ideas into working, practical tools. I focus on building clean, functional applications powered by Python, NLP, and machine learning.
