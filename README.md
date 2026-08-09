@@ -4,10 +4,7 @@
 
 <div align="center">
 
-<div align="center" style="background:#FFD700; padding:40px; border-radius:12px;">
-<h1 style="color:#222;">Chandana C K</h1>
-<h3 style="color:#333;">AI / ML Enthusiast | Student Developer</h3>
-</div>
+<img src="https://readme-typing-svg.demolab.com/?lines=Chandana+C+K;AI+%2F+ML+Enthusiast;Student+Developer&font=Poppins&size=40&duration=3000&pause=1000&color=F7B733&center=true&width=800&height=100" />
 ### 🚀 About Me
 
 I'm an AI & ML enthusiast who loves turning ideas into working, practical tools. I focus on building clean, functional applications powered by Python, NLP, and machine learning.
