@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE68A,100:FCD34D&height=200&section=header&text=Chandana%20C%20K&fontSize=50&fontColor=333333&desc=AI%20%26%20ML%20Enthusiast&descAlignY=65&descSize=20" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D365,100:FDA085&height=200&section=header&text=Chandana%20C%20K&fontSize=50&fontColor=333333&desc=AI%20%26%20ML%20Enthusiast&descAlignY=65&descSize=20" width="100%"/>
 
 ### 🚀 About Me
 
