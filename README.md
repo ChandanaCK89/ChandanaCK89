@@ -4,7 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDE59,100:FFB347&height=200&section=header&text=Chandana%20C%20K&fontSize=50&fontColor=222222&fontAlignY=35&desc=AI%20%2F%20ML%20%7C%20Student%20Developer&descAlignY=60&descSize=18&animation=fadeIn&width=1000" width="100%"/>
+<div align="center" style="background:#FFD700; padding:40px; border-radius:12px;">
+<h1 style="color:#222;">Chandana C K</h1>
+<h3 style="color:#333;">AI / ML Enthusiast | Student Developer</h3>
+</div>
 ### 🚀 About Me
 
 I'm an AI & ML enthusiast who loves turning ideas into working, practical tools. I focus on building clean, functional applications powered by Python, NLP, and machine learning.
