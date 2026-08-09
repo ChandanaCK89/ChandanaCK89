@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D365,100:FDA085&height=200&section=header&text=Chandana%20C%20K&fontSize=50&fontColor=333333&desc=AI%20%26%20ML%20Enthusiast&descAlignY=65&descSize=20" width="100%"/>
 
+</div>
+
 ### 🚀 About Me
 
 I'm an AI & ML enthusiast who loves turning ideas into working, practical tools. I focus on building clean, functional applications powered by Python, NLP, and machine learning.
@@ -12,19 +14,34 @@ I'm an AI & ML enthusiast who loves turning ideas into working, practical tools.
 
 **🔹 AI GD Coach — Practice Placement Group Discussions with AI**
 *Apr 2026 – Aug 2026*
+
 An AI-powered web app that lets students practice placement-style Group Discussions against 5 AI participants, each with a distinct personality — then receive a detailed scored performance report at the end.
-Features: multi-agent conversation simulation, real-time turn-taking logic, automated scoring across content/communication/leadership, structured post-session feedback.
+
+- Multi-agent conversation simulation with 5 distinct AI personas
+- Real-time turn-taking logic to mimic natural GD flow
+- Automated scoring across content, communication, and leadership
+- Structured feedback report generated post-session
+
 🔗 [Live Demo](https://ai-gd-coach.vercel.app) · [Code](https://github.com/ChandanaCK89/ai-gd-coach)
 
 **🔹 AIRINK — Draw in the Air: Create Anywhere**
 *Jun 2026 – Jul 2026*
-A webcam-based drawing app that turns hand gestures into a paintbrush — pinch to draw, release to lift the pen. No stylus or tablet needed. Hand tracking runs client-side via MediaPipe Hands.
-Features: gesture-based drawing, select & edit strokes, user accounts with saved-doodle gallery, real-time saving via WebSockets, optional AI-generated doodle descriptions.
+
+A webcam-based drawing app that turns hand gestures into a paintbrush — pinch to draw, release to lift the pen. Hand tracking runs client-side via MediaPipe Hands.
+
+- Live gesture-based drawing tracked via webcam
+- Select & edit mode to reposition or resize strokes
+- User accounts with a personal saved-doodle gallery
+- Real-time saving via WebSockets (Socket.IO)
+- Optional AI-generated doodle descriptions via Gemini API
+
 🔗 [Live Demo](https://airink-1.onrender.com) · [Code](https://github.com/ChandanaCK89/airink)
 
 **🔹 AI Resume Parser & Job Recommender**
 *Sep 2025 – Jan 2026*
+
 Parses uploaded resumes (PDF/DOCX/TXT), extracts skills and candidate details, and recommends best-fit jobs using TF-IDF + cosine similarity — fully self-contained NLP, no external AI APIs.
+
 🔗 [Live Demo](https://resume-job-matcher-nt66.onrender.com/) · [Code](https://github.com/ChandanaCK89/resume-job-matcher)
 
 ---
